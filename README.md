@@ -26,8 +26,8 @@ This repository contains a **Healthcare Form Application** built with **Flask** 
 To get started, first clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/healthcare-form.git
-cd healthcare-form
+git clone <url>
+cd Oralens
 pip install -r requirements.txt
 python app.py
 http://127.0.0.1:5000/
